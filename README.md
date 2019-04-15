@@ -1,2 +1,5 @@
 # Longest-Palindromic-Substring
-Leetcode submitted solution
+
+Python3 submitted solution to Leetcode.com practice problem. 
+
+When given a string s, it will find the longest palindromic substring in s.
